@@ -1,0 +1,13 @@
+<wpml-config>
+	<admin-texts>		
+		<key name="theme_mods_opta-wp">
+			<key name="menu_text"/>			
+			<key name="footer_mail"/>			
+			<key name="footer_mail_sec"/>			
+			<key name="footer_lat"/>			
+			<key name="footer_lng"/>			
+                        <key name="footer_copyright_content"/>			
+			<key name="footer_social_content"/>						
+		</key>
+	</admin-texts>
+</wpml-config>

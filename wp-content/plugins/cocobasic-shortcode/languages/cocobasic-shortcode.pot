@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CocoBasic - Opta WP\n"
+"POT-Creation-Date: 2017-03-20 21:44+0100\n"
+"PO-Revision-Date: 2017-03-20 21:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cocobasic-shortcode.php:408
+msgid "Portfolio Preference"
+msgstr ""
+
+#: cocobasic-shortcode.php:419
+msgid "Thumb text on mouse over"
+msgstr ""
+
+#: cocobasic-shortcode.php:425
+msgid "Link Thumb/Quote to"
+msgstr ""
+
+#: cocobasic-shortcode.php:431
+msgid "This post"
+msgstr ""
+
+#: cocobasic-shortcode.php:435
+msgid "External URL"
+msgstr ""
+
+#: cocobasic-shortcode.php:439
+msgid "No Link"
+msgstr ""
+
+#: cocobasic-shortcode.php:445
+msgid "Link thumb to External URL:"
+msgstr ""
+
+#: cocobasic-shortcode.php:446
+msgid "Set URL to external site"
+msgstr ""
+
+#: cocobasic-shortcode.php:451
+msgid "Item Quote"
+msgstr ""
+
+#: cocobasic-shortcode.php:452
+msgid "If you want to use text instant Featured Image"
+msgstr ""
+
+#: cocobasic-shortcode.php:457
+msgid "Item Info"
+msgstr ""
+
+#: cocobasic-shortcode.php:458
+msgid "Item/Project Inormation"
+msgstr ""
+
+#: cocobasic-shortcode.php:463
+msgid "Header Content"
+msgstr ""
+
+#: cocobasic-shortcode.php:464
+msgid "(Above Item Info)"
+msgstr ""
+
+#: cocobasic-shortcode.php:558
+msgid "Post Preference"
+msgstr ""
+
+#: cocobasic-shortcode.php:569
+msgid "Show Featured Image on Single Post"
+msgstr ""
+
+#: cocobasic-shortcode.php:570
+msgid "Note: Featured image on Blog page will be still visible"
+msgstr ""
+
+#: cocobasic-shortcode.php:575 cocobasic-shortcode.php:691
+msgid "Yes"
+msgstr ""
+
+#: cocobasic-shortcode.php:579 cocobasic-shortcode.php:695
+msgid "No"
+msgstr ""
+
+#: cocobasic-shortcode.php:674
+msgid "Page Preference"
+msgstr ""
+
+#: cocobasic-shortcode.php:685
+msgid "Show Page Title"
+msgstr ""
+
+#: cocobasic-shortcode.php:701
+msgid "Custom Page title"
+msgstr ""
+
+#: cocobasic-shortcode.php:707
+msgid "Page description"
+msgstr ""
+
+#: shortcode_template.php:32
+msgid "Class"
+msgstr ""
+
+#: shortcode_template.php:33
+msgid "additional class"
+msgstr ""
+
+#: shortcode_template.php:37
+msgid "select column width"
+msgstr ""
+
+#: shortcode_template.php:38
+msgid "Last"
+msgstr ""
+
+#: shortcode_template.php:42 shortcode_template.php:69
+#: shortcode_template.php:101
+msgid "Insert Shortcode"
+msgstr ""
+
+#: shortcode_template.php:52
+msgid "Name"
+msgstr ""
+
+#: shortcode_template.php:53
+msgid "*required image slider name - unique"
+msgstr ""
+
+#: shortcode_template.php:56
+msgid "Auto"
+msgstr ""
+
+#: shortcode_template.php:57
+msgid "slide auto"
+msgstr ""
+
+#: shortcode_template.php:60
+msgid "Hover Pause"
+msgstr ""
+
+#: shortcode_template.php:61
+msgid "pause on hover"
+msgstr ""
+
+#: shortcode_template.php:64
+msgid "Speed"
+msgstr ""
+
+#: shortcode_template.php:65
+msgid "duration of the transition in milliseconds"
+msgstr ""
+
+#: shortcode_template.php:79
+msgid "Set Image"
+msgstr ""
+
+#: shortcode_template.php:82
+msgid "Upload Image"
+msgstr ""
+
+#: shortcode_template.php:83
+msgid "Enter a URL or upload an image"
+msgstr ""
+
+#: shortcode_template.php:88
+msgid "Alt tag for image"
+msgstr ""
+
+#: shortcode_template.php:89
+msgid "Alt tag for image (optional)"
+msgstr ""
+
+#: shortcode_template.php:92
+msgid "URL to Page/Post"
+msgstr ""
+
+#: shortcode_template.php:93
+msgid "Use this field to link image to some Page/Post (optional)"
+msgstr ""
+
+#: shortcode_template.php:96
+msgid "Target"
+msgstr ""
+
+#: shortcode_template.php:97
+msgid "if URL to Page/Post is set (specifies how to open the linked page)"
+msgstr ""

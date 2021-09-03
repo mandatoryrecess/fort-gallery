@@ -1,0 +1,39 @@
+.block-editor-page .edit-post-meta-boxes-area #cocobasic_page_custom_meta_box,
+.block-editor-page .edit-post-meta-boxes-area #cocobasic_portfolio_custom_meta_box,
+.block-editor-page .edit-post-meta-boxes-area #cocobasic_post_custom_meta_box {
+    background-color: #f3f4f5;
+    margin-bottom: 40px;
+}
+
+.block-editor-page .edit-post-meta-boxes-area #cocobasic_page_custom_meta_box .inside,
+.block-editor-page .edit-post-meta-boxes-area #cocobasic_portfolio_custom_meta_box .inside,
+.block-editor-page .edit-post-meta-boxes-area #cocobasic_post_custom_meta_box .inside {
+    background-color: #fff;
+    border-left: 1px solid #e2e4e7;
+    border-right: 1px solid #e2e4e7;
+    margin-top: 0 !important;
+}
+
+.edit-post-meta-boxes-area #poststuff #cocobasic_page_custom_meta_box h2.hndle,
+.edit-post-meta-boxes-area #poststuff #cocobasic_portfolio_custom_meta_box h2.hndle,
+.edit-post-meta-boxes-area #poststuff #cocobasic_post_custom_meta_box h2.hndle {
+    border: 1px solid #e2e4e7;
+}
+
+.block-editor-page .edit-post-meta-boxes-area #cocobasic_page_custom_meta_box .form-table,
+.block-editor-page .edit-post-meta-boxes-area #cocobasic_portfolio_custom_meta_box .form-table,
+.block-editor-page .edit-post-meta-boxes-area #cocobasic_post_custom_meta_box .form-table {
+    margin-top: 0;
+}
+
+#portfolio_item_quote, #portfolio_item_info
+{
+    width: 50%;
+    height: 120px;
+}
+
+#portfolio_header_content
+{
+    width: 100%;
+    height: 120px;
+}
