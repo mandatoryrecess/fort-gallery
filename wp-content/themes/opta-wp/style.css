@@ -39,7 +39,7 @@ Text Domain: opta-wp
 ====================================== */
 
 body {
-    font-family: 'Roboto', serif;
+    font-family: 'engadget', serif;
     font-size: 17px; 	
     line-height: 35px;
     font-weight: 400;	
@@ -280,7 +280,7 @@ body a:hover {
 }
 
 .menu-left-text {
-    font-family: 'Playfair Display', serif;
+    font-family: 'engadget', serif;
     font-weight: 400;
     text-align: right;
     padding-right: 100px;
@@ -534,7 +534,7 @@ body a:hover {
 }
 
 .post-num {
-    font-family: 'Playfair Display', serif;
+    font-family: 'engadget', serif;
     font-weight: 400;
     font-size: 100px;    
     line-height: 100%;    
@@ -596,7 +596,7 @@ body a:hover {
 
 .blog-item-holder h2.entry-title {
     display: block;
-    font-family: 'Playfair Display', serif;
+    font-family: 'engadget', serif;
     font-weight: 400;    
     font-size: 44px;
     line-height: 44px;
@@ -1209,7 +1209,7 @@ p.custom-field-class {
 ====================================== */
 
 .archive-title h1 { 
-    font-family: 'Playfair Display', serif;
+    font-family: 'engadget', serif;
     font-weight: 400;
     border-bottom: 2px solid;
     display: inline-block;
@@ -1241,7 +1241,7 @@ p.custom-field-class {
 ====================================== */
 
 .search .search-title h1 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'engadget', serif;
     font-weight: 400;
     border-bottom: 2px solid;
     display: inline-block;
@@ -1268,7 +1268,7 @@ p.custom-field-class {
 }
 
 .grid-item.quote-item {
-    font-family: 'Playfair Display', serif;
+    font-family: 'engadget', serif;
     width: 400px;
     font-size: 40px;
     line-height: 60px;
@@ -1276,7 +1276,7 @@ p.custom-field-class {
 }
 
 .grid-item.quote-item:before {
-    font-family: "Montserrat", sans-serif;
+    font-family: "engadget", sans-serif;
     font-weight: 700;
     display: block;
     content: "\201C";
@@ -1339,7 +1339,7 @@ p.custom-field-class {
 }
 
 .portfolio-text-holder .portfolio-text {
-    font-family: 'Playfair Display', serif;
+    font-family: 'engadget', serif;
     font-size: 36px;
     line-height: 100%;
 }
@@ -1606,7 +1606,7 @@ p.custom-field-class {
 }
 
 .carousel-slider .slick-slide .item-text a {
-    font-family: 'Playfair Display', serif;
+    font-family: 'engadget', serif;
     font-weight: 400;
     font-size: 40px;
     line-height: 45px;
@@ -1629,7 +1629,7 @@ p.custom-field-class {
 ====================================== */
 
 .single-gallery h1.entry-title {
-    font-family: 'Playfair Display', serif;    
+    font-family: 'engadget', serif;    
     font-weight: 400;    
     font-size: 60px;
     line-height: 60px;       
@@ -1649,7 +1649,7 @@ p.custom-field-class {
 
 
 .big-text {
-    font-family: 'Playfair Display', serif;
+    font-family: 'engadget', serif;
     font-size: 46px;
     line-height: 50px;
     color: #000;
@@ -1674,7 +1674,7 @@ p.custom-field-class {
     height: 28px;
     font-size: 18px;
     line-height: 25px;
-    font-family: 'Roboto', serif;
+    font-family: 'engadget', serif;
     font-weight: 300;
     width: 100%;
     padding: 0;
@@ -1684,7 +1684,7 @@ p.custom-field-class {
 .wpcf7 input[type=text]::-webkit-input-placeholder, 
 .wpcf7 input[type=email]::-webkit-input-placeholder, 
 .wpcf7 textarea::-webkit-input-placeholder {
-    font-family: 'Roboto', serif;
+    font-family: 'engadget', serif;
     color: #4b4b4b;
     font-weight: 300;
     font-size: 18px;
@@ -1694,7 +1694,7 @@ p.custom-field-class {
 .wpcf7 input[type=text]::-moz-placeholder,
 .wpcf7 input[type=email]::-moz-placeholder,
 .wpcf7 textarea::-moz-placeholder {
-    font-family: 'Roboto', serif;
+    font-family: 'engadget', serif;
     color: #4b4b4b;
     font-weight: 300;
     font-size: 18px;
@@ -1705,7 +1705,7 @@ p.custom-field-class {
 .wpcf7 input[type=text]:-ms-input-placeholder, 
 .wpcf7 input[type=email]:-ms-input-placeholder,
 .wpcf7 textarea:-ms-input-placeholder {
-    font-family: 'Roboto', serif;
+    font-family: 'engadget', serif;
     color: #4b4b4b;
     font-weight: 300;
     font-size: 18px;
@@ -1715,7 +1715,7 @@ p.custom-field-class {
 .wpcf7 input[type=text]:-moz-placeholder,
 .wpcf7 input[type=email]:-moz-placeholder,
 .wpcf7 textarea:-moz-placeholder {
-    font-family: 'Roboto', serif;
+    font-family: 'engadget', serif;
     color: #4b4b4b;
     font-weight: 300;
     font-size: 18px;
@@ -1871,7 +1871,7 @@ footer ul {
 }
 
 .footer-first-line {
-    font-family: 'Playfair Display', serif;
+    font-family: 'engadget', serif;
     font-size: 47px;
     line-height: 60px;
 }
