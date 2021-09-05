@@ -286,7 +286,7 @@ blockquote:not(.cocobasic-block-pullquote) {
 
 blockquote:not(.cocobasic-block-pullquote):before {
     content: "\201C";
-    font-family: "Montserrat", sans-serif;
+    font-family: "Engadget", sans-serif;
     color: #fae3b5;
     font-size: 250px;
     line-height: 0;   
