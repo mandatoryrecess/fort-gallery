@@ -341,7 +341,7 @@ body a:hover {
 
 .widget_search .search-field, 
 #header-main-menu .search-field {
-    font-family: 'Roboto', serif;
+    font-family: 'Engadget', serif;
     max-width: 350px;
     width: 90%;
     color: #fff;
@@ -390,7 +390,7 @@ body a:hover {
 
 .widget_search .search-field::-webkit-input-placeholder,
 #header-main-menu .search-field::-webkit-input-placeholder {
-    font-family: 'Roboto', serif;
+    font-family: 'Engadget', serif;
     font-weight: 300;
     color: #fff;
     font-size: 24px;
@@ -401,7 +401,7 @@ body a:hover {
 
 .widget_search .search-field::-moz-placeholder,
 #header-main-menu .search-field::-moz-placeholder {
-    font-family: 'Roboto', serif;
+    font-family: 'Engadget', serif;
     font-weight: 300;
     color: #fff;
     font-size: 24px;
@@ -412,8 +412,8 @@ body a:hover {
 
 .widget_search .search-field:-ms-input-placeholder,
 #header-main-menu .search-field:-ms-input-placeholder {
-    font-family: 'Roboto', serif;
-    font-weight: 300;
+    font-family: 'Engadget', serif;
+        font-weight: 300;
     color: #fff;
     font-size: 24px;
     line-height: 24px;    
@@ -423,7 +423,7 @@ body a:hover {
 
 .widget_search .search-field:-moz-placeholder,
 #header-main-menu .search-field:-moz-placeholder {
-    font-family: 'Roboto', serif;
+    font-family: 'Engadget', 'serif';    
     font-weight: 300;
     color: #fff;
     font-size: 24px;
@@ -433,6 +433,7 @@ body a:hover {
 }
 
 .menu-portfolio-category {
+    font-family: 'Engadget', serif;
     padding-left: 100px;
     padding-top: 50px;
     cursor: auto;
@@ -2153,7 +2154,7 @@ li.social-footer a:first-child {
     }
 
     #header-main-menu {
-        font-family: 'Engadget';
+        font-family: 'Engadget', serif;
         text-align: center;
         padding-left: 0;
         margin-top: 30px;
@@ -2167,7 +2168,7 @@ li.social-footer a:first-child {
     }
 
     .main-menu {
-        font-family: 'Engadget';
+        font-family: 'Engadget', serif;
         max-width: 100%;
     }
 
