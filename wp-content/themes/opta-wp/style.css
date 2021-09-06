@@ -1841,7 +1841,7 @@ footer ul {
     margin-top: 70px;
     padding-bottom: 110px;
     clear: both;
-    color: #fff;
+    color: #fff6d7;
     text-align: center;
     background: #000;
 }
@@ -1852,8 +1852,7 @@ footer ul {
 
 .footer-logo {
     position: relative;
-    width: 70px;
-    height: 70px;
+    width: 250px;
     margin: 0 auto;
     padding-top: 90px;
     padding-bottom: 50px;
